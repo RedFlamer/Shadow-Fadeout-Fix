@@ -1,0 +1,9 @@
+{
+	"name" : "Shadow Fadeout Fix",
+	"description" : "Reverts shadow fadeout to fade to fullbright instead of fading to complete darkness, removing a very noticeable seam for shading",
+	"author" : "RedFlame",
+	"contact" : "Discord: RedFlame#3870",
+	"version" : "1",
+	"priority" : "1000",
+	"color" : "0 0 1"
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<mod name="Shadow Fadeout Fix">
+	<tweak definition="xml/layers.diesel_layers"/>
+</mod>
